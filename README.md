@@ -59,3 +59,6 @@ If you add a folder name or path, it will print that folder's contents:
 ```bash
 ls /bin
 ```
+![Screenshot (622)](https://github.com/jaywiz16/linux-bootcamp/assets/113538419/f41b8dda-bfbd-45df-a4cb-e181c01a908f)
+
+
